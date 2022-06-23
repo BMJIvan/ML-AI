@@ -1,6 +1,6 @@
 ### ML-AI
 
-Estos codigos fuerón realizados por cursos de Udemy y YouTube con algunas cosas propias
+These codes were written by taken Udemy and YouTube courses with some codes written by myself
 
 - [Curso completo de Machine Learning: Data Science en Python](https://www.udemy.com/course/machinelearningpython/ "Curso completo de Machine Learning: Data Science en Python")
 
